@@ -82,3 +82,7 @@ td, th {
     text-decoration: line-through;
     color: grey;
 }
+
+#button-learner {
+    background-color: coral;
+}
